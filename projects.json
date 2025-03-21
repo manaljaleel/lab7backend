@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Project One",
+      "author": "Alice",
+      "description": "A cool project",
+      "languages": ["JavaScript", "React"]
+    },
+    {
+      "id": 2,
+      "name": "Project Two",
+      "author": "Bob",
+      "description": "Another cool project",
+      "languages": ["Python", "Django"]
+    }
+  ]
+  
